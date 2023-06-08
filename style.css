@@ -1,12 +1,12 @@
 body {
-    background: chocolate;
+    background: rgb(96, 123, 128);
 }
-img{
+.image {
+    margin-top: 50px;
     width: 300px;
     display: block;
-    margin-top: 50px;
 }
-input{
+.insert{
     width: 400px;
     display: block;
     margin-top: 10px;
